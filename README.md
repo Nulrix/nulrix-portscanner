@@ -50,8 +50,8 @@ python3 scanner.py -H 192.168.1.10 -p 1-1024,3306,5432,6379 -b -c 400 -t 1.0 -o 
 > **For education & authorized testing only.**  
 Misuse may violate laws and policies. You are responsible for your actions.
 
-## 📦 Requirements
+## Requirements
 - Python 3.9+ (standard library only; no external deps)
 
-## 📝 License
+## License
 MIT © 2025 Nulrix
