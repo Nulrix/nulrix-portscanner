@@ -35,7 +35,7 @@ class C:
     W = "\033[97m"
     D = "\033[0m"
 
-def color(s, c): 
+def color(s, c):  
     return f"{c}{s}{C.D}"
 
 # ---------------------- Common Ports ----------------------
