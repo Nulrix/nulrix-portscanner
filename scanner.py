@@ -1,5 +1,5 @@
 #!/usr/bin/env python3 
-"""  
+"""   
 Nulrix Port Scanner
 Lightweight, fast TCP port scanner for ethical hacking & CTF practice.
 
